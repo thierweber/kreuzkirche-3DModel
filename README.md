@@ -1,5 +1,5 @@
 # Welcome to the ETH Zurich Geomatics Master Project: <br> "3D Model of a cultural heritage building" <br>
-This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
+This repository contains methods and results of a ETH Zurich Geomatics MSc project developed by Thierry Weber. The project had three main goals: Creating a digital twin of a cultural heritage building in Switzerland, including the 3D model in a VR-Experience and assessing the accuracy of the obtained. 
 
 ## The Model:
 ![Church Model](ModelScreenshots/Full_MODEL_V10.png)
