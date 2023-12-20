@@ -2,7 +2,7 @@
 This repository contains methods and results of a ETH Zurich Geomatics MSc project developed by Thierry Weber. The project had three main goals: Creating a **digital twin** of a cultural heritage building in Switzerland, including the 3D model in a **VR-Experience** and **assessing the accuracy** of the obtained 3D model. 
 
 ## The Model:
-The following renderings show the highest quality Mesh of Kreuzkirche created in this project.
+The following renderings show the highest quality Mesh of Kreuzkirche created in this project. </br>
 ![Church Model](ModelScreenshots/Full_MODEL_V10.png)
 ![Church Model](ModelScreenshots/Full_MODEL_V10_2.png)
 ![Church Model](ModelScreenshots/Full_MODEL_V10_3.png)
