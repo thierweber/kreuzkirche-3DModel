@@ -21,9 +21,10 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 
 ## Data Acquisition
 <p float="left">
-  <img src="![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)" width="200" />
-  <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507_1.gif" width="200" /> 
-  <img src="VRExperienceGIFS/PopUpGIF.gif" width="200" /> 
+  <img src="DataAcquisition/20231019_143718891_iOS.jpg" width="200" />
+  <img src="DataAcquisition/20231019_130802292_iOS.jpg" width="200" /> 
+  <img src="DataAcquisition/20231110_162318062_iOS.jpg" width="200" /> 
+  
 </p>
 
 ![Tragets](DataAcquisition/Target_Overview.PNG)
