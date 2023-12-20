@@ -1,4 +1,4 @@
-**#Welcome to the 3D Model of a cultural heritage building Project! **
+**# Welcome to the 3D Model of a cultural heritage building Project!**
 This repository contains a detailed 3D model of the Kreuzkriche in Zurich City.
 
 Here are some screenshots of the final model:
