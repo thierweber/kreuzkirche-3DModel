@@ -1,5 +1,5 @@
 # Welcome to the Geomatics Master Project: "3D Model of a cultural heritage building" <br>
-This repository contains a detailed 3D model of the Kreuzkriche in Zurich City.
+This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
 
 ## The Model:
 ![Church Model](ModelScreenshots/Full_MODEL_V10.png)
