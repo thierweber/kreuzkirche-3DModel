@@ -16,3 +16,4 @@ This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
 
 ## VR-Experience
 
+![VRExperienceGIF1](VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif) ![VRExperienceGIF2](VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif)
