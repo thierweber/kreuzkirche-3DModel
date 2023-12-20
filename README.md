@@ -21,7 +21,8 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
   <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507_1.gif" width="200" /> 
   <img src="VRExperienceGIFS/PopUpGIF.gif" width="200" /> 
 </p>
-![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
+
+![WorkflowDiagram](DataAcquisition/Target_Overview.PNG)
 
 ## Data Acquisition
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
