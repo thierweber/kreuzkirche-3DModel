@@ -18,6 +18,16 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 ## Workflow 
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
 
+
+## Data Acquisition
+<p float="left">
+  <img src="DataAcquisition/20231019_143718891_iOS.jpg" width="355" />
+  <img src="DataAcquisition/20231019_130802292_iOS.jpg" width="200" /> 
+  
+</p>
+
+![Tragets](DataAcquisition/Target_Overview.PNG)
+
 ## Point Cloud Accuracy Assessment 
 ![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
