@@ -15,6 +15,9 @@ This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
   <img src="VRExperienceGIFS/PopUpGIF.gif" width="200" /> 
 </p>
 
+## Workflow 
+![CloudToCloudDistance](Workflow/MP_3D_Model_Workflow3-2.png)
+
 ## Point Cloud Accuracy Assessment 
 ![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
