@@ -10,6 +10,9 @@ This repository contains a detailed 3D model of the Kreuzkriche in Zurich City.
 
 
 ## Point Cloud Accuracy Assessment 
-![Church Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
-![Church Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
-![Church Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All9.png)
+![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
+![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
+![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All9.png)
+
+## VR-Experience
+
