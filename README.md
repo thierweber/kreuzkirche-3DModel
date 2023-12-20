@@ -23,7 +23,6 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 <p float="left">
   <img src="DataAcquisition/20231019_143718891_iOS.jpg" width="200" />
   <img src="DataAcquisition/20231019_130802292_iOS.jpg" width="200" /> 
-  <img src="DataAcquisition/20231110_162318062_iOS.jpg" width="200" /> 
   
 </p>
 
