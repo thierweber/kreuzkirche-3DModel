@@ -16,16 +16,17 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 </p>
 
 ## Workflow 
+![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
+
+
+## Data Acquisition
 <p float="left">
-  <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif" width="200" />
+  <img src="![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)" width="200" />
   <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507_1.gif" width="200" /> 
   <img src="VRExperienceGIFS/PopUpGIF.gif" width="200" /> 
 </p>
 
-![WorkflowDiagram](DataAcquisition/Target_Overview.PNG)
-
-## Data Acquisition
-![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
+![Tragets](DataAcquisition/Target_Overview.PNG)
 
 ## Point Cloud Accuracy Assessment 
 ![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
