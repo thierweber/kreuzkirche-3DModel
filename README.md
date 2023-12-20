@@ -1,5 +1,5 @@
 # Welcome to the ETH Zurich Geomatics Master Project: <br> "3D Model of a cultural heritage building" <br>
-This repository contains methods and results of a ETH Zurich Geomatics MSc project developed by Thierry Weber. The project had three main goals: Creating a digital twin of a cultural heritage building in Switzerland, including the 3D model in a VR-Experience and assessing the accuracy of the obtained. 
+This repository contains methods and results of a ETH Zurich Geomatics MSc project developed by Thierry Weber. The project had three main goals: Creating a **digital twin** of a cultural heritage building in Switzerland, including the 3D model in a **VR-Experience** and **assessing the accuracy** of the obtained 3D model. 
 
 ## The Model:
 ![Church Model](ModelScreenshots/Full_MODEL_V10.png)
