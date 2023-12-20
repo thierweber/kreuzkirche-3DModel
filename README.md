@@ -1,4 +1,4 @@
-# Welcome to the Geomatics Master Project: "3D Model of a cultural heritage building" <br>
+# Welcome to the ETH Zurich Geomatics Master Project: "3D Model of a cultural heritage building" <br>
 This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
 
 ## The Model:
