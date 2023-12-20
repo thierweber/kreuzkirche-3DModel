@@ -15,5 +15,8 @@ This repository contains a detailed 3D model of the Kreuzkirche in Zurich City.
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All9.png)
 
 ## VR-Experience
-
-![VRExperienceGIF1](VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif) ![VRExperienceGIF2](VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif)
+<p float="left">
+  <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif" width="100" />
+  <img src="URL_to_image2" width="100" /> 
+</p>
+![VRExperienceGIF1](VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif) ![VRExperienceGIF2](VRExperienceGIFS/com.oculus.vrshell-20231217-120507_1.gif)
