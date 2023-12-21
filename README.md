@@ -28,8 +28,10 @@ The following renderings show the highest quality Mesh of Kreuzkirche created in
 <p style="text-align:justify">
   The diagram below provides an overview of the project's workflow. The project started with selecting an interesting cultural heritage building. 
   This was done by visiting mulitple churches in the city of Zurich (Fraumünster, Kirche Enge, Kreuzkirche). After assessing the situation at each church, 
-  the decision fell on Kreuzkirche in Hottingen ZH. 
+  the decision fell on Kreuzkirche in Hottingen ZH. While planning the data acquisition, not only the required instruments had to be defined, but site access, permits and restrictions had to be checked out.
+  With the architectural complexity and size of the church, drone data had to be included to realize this project. With drone flight restictions in Switzerland, clarification of drone flight at Kreuzkirche had to     be made. TO BE CONTINUED
 </p>
+
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
 
 
