@@ -34,6 +34,11 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 </p>
 
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
+<p style="text-align:justify">
+  A more detailed workflow for the integration of the point clouds of all components in Reality Capture is shown in the diagram below.
+</p>
+
+![WorkflowDiagram](Workflow/Workflow_RealityCaptureV2.drawio.png)
 
 
 ## Data Acquisition
