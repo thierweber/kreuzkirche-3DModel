@@ -3,6 +3,7 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 
 ## The Model:
 <p style="text-align:justify"> The following renderings show the highest quality Mesh of Kreuzkirche created in this project. </p>
+
 ![Church Model](ModelScreenshots/Full_MODEL_V10.png)
 ![Church Model](ModelScreenshots/Full_MODEL_V10_2.png)
 ![Church Model](ModelScreenshots/Full_MODEL_V10_3.png)
