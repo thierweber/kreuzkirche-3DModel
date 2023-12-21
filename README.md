@@ -42,6 +42,11 @@ This repository contains methods and results of a ETH Zurich Geomatics MSc proje
 
 
 ## Data Acquisition
+
+<p style="text-align:justify">
+  The acquisition of all data used took place in one day and was carried out in a two-person team. At this point, a huge thank you to my advisor Matej Varga for the great support during the acquisition day.
+  Here are some impressions of the acquisition day. The weather was a mix of clouds and sun shine, which complicated the photogrammetry part during the recording of the data, but also in the processing. Fortunately, we were allowed to also collect data from the dome structure of the church. Side note, the view over Zurich City is stunning from up there!
+</p>
 <p float="left">
   <img src="DataAcquisition/20231019_143718891_iOS.jpg" width="355" />
   <img src="DataAcquisition/20231019_130802292_iOS.jpg" width="200" /> 
