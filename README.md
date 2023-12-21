@@ -25,6 +25,11 @@ The following renderings show the highest quality Mesh of Kreuzkirche created in
 </p>
 
 ## Workflow 
+<p style="text-align:justify">
+  The diagram below provides an overview of the project's workflow. The project started with selecting an interesting cultural heritage building. 
+  This was done by visiting mulitple churches in the city of Zurich (Fraumünster, Kirche Enge, Kreuzkirche). After assessing the situation at each church, 
+  the decision fell on Kreuzkirche in Hottingen ZH. 
+</p>
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
 
 
@@ -38,11 +43,11 @@ The following renderings show the highest quality Mesh of Kreuzkirche created in
 ![Tragets](DataAcquisition/Target_Overview.PNG)
 
 ## Point Cloud Accuracy Assessment 
-<div style="text-align: justify">
+<p style="text-align: justify">
 The following figures show the cloud-to-cloud distance between the point cloud obtained using data and the one obtained only from drone photogrammetry. The differences are in meters. 
 As expected, the areas with high discrepancies are the once with data gabs from the drone data. The back facade (alot of red in the plot) was close to high trees, which prevented 
 detailed drone images of the facade.
-</div>
+</p>
 
 ![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
