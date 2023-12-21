@@ -11,6 +11,13 @@ The following renderings show the highest quality Mesh of Kreuzkirche created in
 
 
 ## VR-Experience
+<p style="text-align:justify">
+  The Virtual Reality (VR) experience created as part of this project, has three main functionalities (shown in the GIFS below). First the user can 
+  show or hide the information buttons distributed over the scaled 3D model with the big button on the left side of the pedestal. The big button on 
+  the right side of the pedestal, allows the user to enlarge the model to full scale and shrink it again. When clicked, the information buttons on the scaled 
+  model show information about the church.
+
+</p>
 <p float="left">
   <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507.gif" width="200" />
   <img src="VRExperienceGIFS/com.oculus.vrshell-20231217-120507_1.gif" width="200" /> 
