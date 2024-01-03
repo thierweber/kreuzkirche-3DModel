@@ -59,7 +59,7 @@ instruments required more substantial planning for the acquisition day then othe
 After acquiring all data in one day, the processing steps began. The pre-processing started in separate 
 software. The alignment and modelling was later mainly done in Reality Capture (Reality Capture, 2023). 
 The accuracy Assessment was done in Python and Cloud Compare (Cloud Compare, 2023). As a final 
-step the model was integrated into a VR-Experience. More details on each step will can be read in the 
+step the model was integrated into a VR-Experience. More details on each step can be read in the 
 following subsection. 
 
 </p>
