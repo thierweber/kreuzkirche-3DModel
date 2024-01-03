@@ -1,6 +1,25 @@
 # Welcome to the ETH Zurich Geomatics Master Project: <br> "3D model of a cultural heritage building" <br>
 This repository contains methods and results of a ETH Zurich Geomatics MSc project developed by Thierry Weber. The project had three main goals: Creating a **digital twin** of a cultural heritage building in Switzerland, including the 3D model in a **VR-Experience** and **assessing the accuracy** of the obtained 3D model. 
 
+## Abstract
+
+<p style="text-align:justify">
+  In the span of a semester at ETH Zurich, a high-detail, digital 3D model of the exterior of Kreuzkirche in 
+Hottingen ZH was reconstructed. Scoping the full workflow of modern cultural heritage documentation, the 
+project started with data acquisition, covered data processing, modelling and finished with the visualization 
+of the resulting 3D model. Fusing photogrammetry and laser scanning techniques to document Kreuzkirche’s challenging architecture has proven to be a suitable approach. Aerial and terrestrial data acquisitions
+have supplemented each other to minimize data gaps. Whereas laser scanning has contributed to geometric precision, the high-quality photogrammetric images ensured a detailed texture on the model. During 
+the data processing step, experiments were conducted to find a combination of data and settings which 
+led to the best possible results. The point clouds resulting from different combinations of data enabled 
+during the reconstruction were assessed for their accuracy by comparing them to the highest-quality point 
+cloud. Additionally, the final point cloud was assessed using ground reference points from the Swiss national reference frame. It was found that there are some data gaps, leading to noisy parts in the reconstructed model. This although a comprehensive site analysis and acquisition planning were done beforehand. <br>
+  
+A key element of the project was the development of a VR-Experience, which allowed viewers to interactively tour Kreuzkirche. Feedback from a group of test users turned out positive, with a notable emphasis 
+on the functionality allowing real-life size enlargement of the model. The interactive features that allowed 
+users to acquire comprehensive information about the church were well-received, as they improved the 
+educational part of the experience. Due to the limitations on processing power on the VR device, a tradeoff between model quality and the lagging of the application had to be weighted up
+</p>
+
 ## The Model:
 <p style="text-align:justify"> The following renderings show the highest quality Mesh of Kreuzkirche created in this project. </p>
 
@@ -110,7 +129,7 @@ features in the scene. This would bring the advantage that during the cleaning s
 would not need to be removed manually or remain visible in the final model. <br>
 
 Including a model of the church's inside would significantly improve the outcome. This would be beneficial 
-for both the VR-Experience and the documentation side <br>
+for both the VR-Experience and the documentation side. <br>
 To finally conclude the VR-Experience, it can be said that this is a suitable way of visualizing a 3D model. 
 Although I am overall quite satisfied with the application, there are a few points I would like to mention 
 which could be focused on in future projects. As mentioned in the discussion, there is still some lag occurring in the application, if the user stands in a specific distance from the model. This is one thing that could 
