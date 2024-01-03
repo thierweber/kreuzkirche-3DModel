@@ -75,12 +75,13 @@ assessment of the dense point clouds was conducted. Overall, the three main goal
 visualization purposes. The combination of photogrammetry and laser scanning to model a digital twin of 
 a cultural heritage building was proven to be beneficial for the resulting model. Whereas the laser scan 
 contributes most to the geometric accuracy, good-quality images enable a highly detailed texture. The 
-developed VR-Experience lets the user explore Kreuzkirche in a fun and interactive way, which was confirmed by a hand full of test users. The functionality to enlarge the model to real-life size was the favorite
+developed VR-Experience lets the user explore Kreuzkirche in a fun and interactive way, which was confirmed by a hand full of test users. The functionality to enlarge the model to real-life size was the favorite
 of all users. They also appreciated the way of interacting with the model to view detailed information about 
-the church. The results from the accuracy assessment backed up the theory that the combination of photogrammetry and laser scans can be beneficial for creating a 3D model of a cultural heritage building.
+the church. The results from the accuracy assessment backed up the theory that the combination of photogrammetry and laser scans can be beneficial for creating a 3D model of a cultural heritage building. <br>
+  
 In addition to helping with the preservation and documentation of cultural heritage buildings, this project 
 shows that the digital model could be used to showcase such a building in a museum. One way to do so 
-would be in a VR-Experience as developed in this project. 
+would be in a VR-Experience as developed in this project. <br>
 Having a well-structured workflow for a project like this is crucial. Especially as the project includes all 
 steps involved in creating a 3D model of a building, from data acquisition to data processing and visualizing 
 the result. Despite the structure of the project, there are a few points that could be improved for future 
