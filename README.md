@@ -17,7 +17,7 @@ cloud. Additionally, the final point cloud was assessed using ground reference p
 A key element of the project was the development of a VR-Experience, which allowed viewers to interactively tour Kreuzkirche. Feedback from a group of test users turned out positive, with a notable emphasis 
 on the functionality allowing real-life size enlargement of the model. The interactive features that allowed 
 users to acquire comprehensive information about the church were well-received, as they improved the 
-educational part of the experience. Due to the limitations on processing power on the VR device, a tradeoff between model quality and the lagging of the application had to be weighted up
+educational part of the experience. Due to the limitations on processing power on the VR device, a tradeoff between model quality and the lagging of the application had to be weighted up
 </p>
 
 ## The Model:
