@@ -66,4 +66,47 @@ detailed drone images of the facade.
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All8.png)
 ![CloudToCloudDistance Model](Cloud-toCloudDistance/Cloud-toCloudDrone-All9.png)
 
+## Conclusion and Outlook
+
+<p style="text-align:justify">
+Throughout one semester at ETH Zurich, a high-detail 3D model of the outside of Kreuzkirche in Hottingen 
+Zurich was constructed. This model was then visualized in a VR-Experience. Additionally, an accuracy 
+assessment of the dense point clouds was conducted. Overall, the three main goals have been met. Despite the challenging architecture of the building, the reconstructed 3D model turned out to be suitable for 
+visualization purposes. The combination of photogrammetry and laser scanning to model a digital twin of 
+a cultural heritage building was proven to be beneficial for the resulting model. Whereas the laser scan 
+contributes most to the geometric accuracy, good-quality images enable a highly detailed texture. The 
+developed VR-Experience lets the user explore Kreuzkirche in a fun and interactive way, which was confirmed by a hand full of test users. The functionality to enlarge the model to real-life size was the favorite
+of all users. They also appreciated the way of interacting with the model to view detailed information about 
+the church. The results from the accuracy assessment backed up the theory that the combination of photogrammetry and laser scans can be beneficial for creating a 3D model of a cultural heritage building.
+In addition to helping with the preservation and documentation of cultural heritage buildings, this project 
+shows that the digital model could be used to showcase such a building in a museum. One way to do so 
+would be in a VR-Experience as developed in this project. 
+Having a well-structured workflow for a project like this is crucial. Especially as the project includes all 
+steps involved in creating a 3D model of a building, from data acquisition to data processing and visualizing 
+the result. Despite the structure of the project, there are a few points that could be improved for future 
+work. Starting with the planning phase, it is important to think about how to combine different data in the 
+alignment process. Especially with aerial and terrestrial data, having enough common control points is 
+important. This also means creating control points above ground-level. With one data set from the TLS not 
+having any control points on the ground level and only a few to match within the dome, this is not planned 
+ideally in this project.
+Moving on to the data acquisition itself, a one-day measuring campaign with a two-person team was not 
+enough for a building of this size and architectural complexity. Unfortunately this led to data that was missing in the end. Which even influenced the final model. For a future project, I would recommend reserving 
+more time for the data acquisition. Like this, more data can be collected. Personally, I would have liked to 
+increase the number of drone images and TLS standpoint. Furthermore, acquiring photogrammetric data 
+in central Europe in autumn is not ideal. The sun stays low through the day, casting long shadows. Plus, 
+the weather is rather unstable. Ideal conditions would be a cloud-covered sky all day to ensure soft lighting 
+conditions.
+Concluding the data processing, there are many ways and software for combining photogrammetry and 
+laser scan data. Reality Capture was found to be an impressive software which is able to merge photogrammetry and laser scans and process them into a 3D model. It includes all the tools needed for the steps 
+described within this report, from aligning components to mesh creation, texturing and finally cleaning the 
+model. A setting that could be played with in future work is the weight of different components during the 
+mesh generation. As seen in the results, there are still some unwanted artefacts of the tree shadow visible 
+in the mesh. Giving the photogrammetric data less weight in that part of the model could improve the result.
+Another interesting exploration to make in future work would be to test how well the alignment of different 
+component would work without having placed physical targets on the object. With photogrammetry software having advanced a lot in the past few years, it could be possible to let the software decide on key 
+features in the scene. This would bring the advantage that during the cleaning step, the physical targets 
+would not need to be removed manually or remain visible in the final model.
+Including a model of the church's inside would significantly improve the outcome. This would be beneficial 
+for both the VR-Experience and the documentation side
+</p>
 
