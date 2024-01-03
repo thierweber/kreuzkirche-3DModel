@@ -12,9 +12,9 @@ have supplemented each other to minimize data gaps. Whereas laser scanning has c
 the data processing step, experiments were conducted to find a combination of data and settings which 
 led to the best possible results. The point clouds resulting from different combinations of data enabled 
 during the reconstruction were assessed for their accuracy by comparing them to the highest-quality point 
-cloud. Additionally, the final point cloud was assessed using ground reference points from the Swiss national reference frame. It was found that there are some data gaps, leading to noisy parts in the reconstructed model. This although a comprehensive site analysis and acquisition planning were done beforehand. <br>
+cloud. Additionally, the final point cloud was assessed using ground reference points from the Swiss national reference frame. It was found that there are some data gaps, leading to noisy parts in the reconstructed model. This although a comprehensive site analysis and acquisition planning were done beforehand. <br>
   
-A key element of the project was the development of a VR-Experience, which allowed viewers to interactively tour Kreuzkirche. Feedback from a group of test users turned out positive, with a notable emphasis 
+A key element of the project was the development of a VR-Experience, which allowed viewers to interactively tour Kreuzkirche. Feedback from a group of test users turned out positive, with a notable emphasis 
 on the functionality allowing real-life size enlargement of the model. The interactive features that allowed 
 users to acquire comprehensive information about the church were well-received, as they improved the 
 educational part of the experience. Due to the limitations on processing power on the VR device, a tradeoff between model quality and the lagging of the application had to be weighted up
