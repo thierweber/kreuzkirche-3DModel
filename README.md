@@ -74,7 +74,28 @@ educational part of the experience. Due to the limitations on processing power o
 
 ![Tragets](DataAcquisition/Target_Overview.PNG)
 
-## Meth Tests
+## Mesh Tests
+<p style="text-align:justify">
+As part of the project, some tests on settings and what data to use for the best mesh result were conducted.  One of them was the cutout of the dome structure on the back facade of the church (first 
+row in the figure below). This region was especially interesting, as it was prone to lack of data. Figure 20 shows
+the results of reconstruction, enabling different components. Enabling only photogrammetry data led to 
+noisy edges and therefore loss of detail. Looking at the reconstruction with TLS data, the small details are 
+preserved and the mesh is much less noisy. Of course, it failed at places with data gaps, such as the lower 
+part of the railing. Combining all components allowed us to compensate for the data gap in the TLS data 
+while still keeping much of the detail. <br>
+  
+Another interesting reconstruction challenge for the photogrammetric data can be seen in the second row 
+in Figure 20. The noise in the facade occurred due to heavy shadows casted by the tree next to the church. 
+As the alignment of images relies on key features similar to each other from image to image, this highly 
+spatially varying pattern prevented a clean reconstruction. In this situation, the laser scan can make up for 
+it, as seen in the screenshot on the right side. The influence of the photogrammetry components is still 
+visible.  <br>
+
+Focusing on the last row, the reconstruction challenges of the pillar in front of the main entrance are visible. 
+Here again, the photogrammetry data leads to noisy reconstruction and TLS data is able to improve the 
+result.
+
+</p>
 
 ![MeshTests](DataProcessing/MeshTestFigure.png)
 
