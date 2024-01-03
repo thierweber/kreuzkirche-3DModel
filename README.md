@@ -46,10 +46,22 @@ educational part of the experience. Due to the limitations on processing power o
 
 ## Workflow 
 <p style="text-align:justify">
-  The diagram below provides an overview of the project's workflow. The project started with selecting an interesting cultural heritage building. 
-  This was done by visiting mulitple churches in the city of Zurich (Fraumünster, Kirche Enge, Kreuzkirche). After assessing the situation at each church, 
-  the decision fell on Kreuzkirche in Hottingen ZH. While planning the data acquisition, not only the required instruments had to be defined, but site access, permits and restrictions had to be checked out.
-  With the architectural complexity and size of the church, drone data had to be included to realize this project. With drone flight restictions in Switzerland, clarification for legal drone flight at Kreuzkirche had to be made. TO BE CONTINUED
+  
+Going through the general workflow presented in the diagram below, the project started with finding a suitable cultural 
+heritage building to replicate. Three different churches in the city of Zurich were visited and rated according 
+to four main factors: Cultural value, passer-by frequency, accessibility, contact to responsible person. The 
+three candidates were Kreuzkirche, Fraumünster and Kirche Enge. Although Fraumünster would have the 
+highest cultural value, the accessibility and passer-by frequency were the main factors not ideal, as it is 
+situated in the city center- Finally, the decision fell on Kreuzkirche in Hottingen Zurich. 
+Next was an extensive site analysis, which included getting all permits and looking up any restriction. With 
+that done, the planning on what data would be needed and how to acquire it took place. Some of the 
+instruments required more substantial planning for the acquisition day then others. 
+After acquiring all data in one day, the processing steps began. The pre-processing started in separate 
+software. The alignment and modelling was later mainly done in Reality Capture (Reality Capture, 2023). 
+The accuracy Assessment was done in Python and Cloud Compare (Cloud Compare, 2023). As a final 
+step the model was integrated into a VR-Experience. More details on each step will can be read in the 
+following subsection. 
+
 </p>
 
 ![WorkflowDiagram](Workflow/MP_3D_Model_Workflow2_6.drawio.png)
