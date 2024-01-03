@@ -162,3 +162,14 @@ be investigated more. I assume this is connected with finding a way to down-samp
 DEM, which was not achieved within the scope of this project.
 </p>
 
+## Acknowledgements
+
+I would like to thank my advisor, Matej Varga, for the well-structured guidance through the project and 
+lively discussions, but also for the great support on the measuring day. Additionally, I would like to thank 
+the “reformierte kirche Zürich” for the access to the Kreuzkirche. Next, I would like to thank Gordan Horvat 
+for his advice on building modelling. Thank you, Tianyi Xiao, at the Chair of Geoinformation Engineering 
+Institute of Cartography and Geoinformation at ETH Zurich for lending me the Meta Quest Pro and giving 
+me advice during the development of the VR-Experience. Finally, I would like to thank Prof. Dr. Andreas 
+Wieser for the opportunity to work on this project in the Chair of Geosensors and Engineering Geodesy 
+(GSEG) at ETH Zurich.
+
