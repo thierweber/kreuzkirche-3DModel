@@ -102,8 +102,14 @@ result.
 ## Point Cloud Accuracy Assessment 
 <p style="text-align: justify">
 The following figures show the cloud-to-cloud distance between the point cloud obtained using data and the one obtained only from drone photogrammetry. The differences are in meters. 
-As expected, the areas with high discrepancies are the once with data gabs from the drone data. The back facade (alot of red in the plot) was close to high trees, which prevented 
-detailed drone images of the facade.
+The scale on the right side of each screenshot has the unit meter and shows 
+the absolute distance between both point clouds. Blue indicates null to minor differences of 5 cm. The 
+scale reaches up to 20cm in difference, which is indicated in red in the plots. As expected, the areas with high discrepancies are the once with data gabs from the drone data. The back facade (alot of red in the plot) was close to high trees, which prevented 
+detailed drone images of the facade. <br>
+  
+Noteworthy are the big red patches on the smaller dome next to the main dome, as this was well visible 
+from the drone perspective but still led to a noisy reconstruction. Also, parts of the facade include deviations 
+of up to 15 cm, although they were visible from the drone
 </p>
 
 ![CloudToCloudDistance](Cloud-toCloudDistance/Cloud-toCloudDrone-All14.png)
