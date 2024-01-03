@@ -74,6 +74,10 @@ educational part of the experience. Due to the limitations on processing power o
 
 ![Tragets](DataAcquisition/Target_Overview.PNG)
 
+## Meth Tests
+
+![MeshTests](DataProcessing/MeshTestFigure.png)
+
 ## Point Cloud Accuracy Assessment 
 <p style="text-align: justify">
 The following figures show the cloud-to-cloud distance between the point cloud obtained using data and the one obtained only from drone photogrammetry. The differences are in meters. 
