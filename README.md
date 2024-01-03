@@ -89,25 +89,32 @@ work. Starting with the planning phase, it is important to think about how to co
 alignment process. Especially with aerial and terrestrial data, having enough common control points is 
 important. This also means creating control points above ground-level. With one data set from the TLS not 
 having any control points on the ground level and only a few to match within the dome, this is not planned 
-ideally in this project.
+ideally in this project. <br>
 Moving on to the data acquisition itself, a one-day measuring campaign with a two-person team was not 
-enough for a building of this size and architectural complexity. Unfortunately this led to data that was missing in the end. Which even influenced the final model. For a future project, I would recommend reserving 
+enough for a building of this size and architectural complexity. Unfortunately this led to data that was missing in the end. Which even influenced the final model. For a future project, I would recommend reserving 
 more time for the data acquisition. Like this, more data can be collected. Personally, I would have liked to 
 increase the number of drone images and TLS standpoint. Furthermore, acquiring photogrammetric data 
 in central Europe in autumn is not ideal. The sun stays low through the day, casting long shadows. Plus, 
 the weather is rather unstable. Ideal conditions would be a cloud-covered sky all day to ensure soft lighting 
-conditions.
+conditions. <br>
 Concluding the data processing, there are many ways and software for combining photogrammetry and 
-laser scan data. Reality Capture was found to be an impressive software which is able to merge photogrammetry and laser scans and process them into a 3D model. It includes all the tools needed for the steps 
+laser scan data. Reality Capture was found to be an impressive software which is able to merge photogrammetry and laser scans and process them into a 3D model. It includes all the tools needed for the steps 
 described within this report, from aligning components to mesh creation, texturing and finally cleaning the 
 model. A setting that could be played with in future work is the weight of different components during the 
 mesh generation. As seen in the results, there are still some unwanted artefacts of the tree shadow visible 
-in the mesh. Giving the photogrammetric data less weight in that part of the model could improve the result.
+in the mesh. Giving the photogrammetric data less weight in that part of the model could improve the result. <br>
+
 Another interesting exploration to make in future work would be to test how well the alignment of different 
-component would work without having placed physical targets on the object. With photogrammetry software having advanced a lot in the past few years, it could be possible to let the software decide on key 
+component would work without having placed physical targets on the object. With photogrammetry software having advanced a lot in the past few years, it could be possible to let the software decide on key 
 features in the scene. This would bring the advantage that during the cleaning step, the physical targets 
-would not need to be removed manually or remain visible in the final model.
+would not need to be removed manually or remain visible in the final model. <br>
+
 Including a model of the church's inside would significantly improve the outcome. This would be beneficial 
-for both the VR-Experience and the documentation side
+for both the VR-Experience and the documentation side <br>
+To finally conclude the VR-Experience, it can be said that this is a suitable way of visualizing a 3D model. 
+Although I am overall quite satisfied with the application, there are a few points I would like to mention 
+which could be focused on in future projects. As mentioned in the discussion, there is still some lag occurring in the application, if the user stands in a specific distance from the model. This is one thing that could 
+be investigated more. I assume this is connected with finding a way to down-sample the model in complexity without losing too much detail. A second point to further investigate would be the integration of a 
+DEM, which was not achieved within the scope of this project.
 </p>
 
